@@ -45041,7 +45041,7 @@ A.e8(q.a.c)
 s=q.a
 r=s.d
 if(r==="")s.d="http://localhost:3000/"
-else s.d="http://"+r+":3000/"
+else s.d="ws://"+r+":3000/"
 q.aR()
 q.as=new A.bm(new A.at($.ar,t.ll),t.iI)
 s=$.hW()
