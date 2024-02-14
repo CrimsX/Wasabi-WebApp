@@ -44696,7 +44696,7 @@ aC(){var s,r,q=this
 A.ej(q.a.c)
 s=q.a
 r=s.d
-if(r==="")s.d="http://localhost:3000/"
+if(r==="")s.d="https://wasabi-server.fly.dev/"
 else s.d="http://"+r+":3000/"
 q.aQ()
 q.as=new A.bm(new A.au($.as,t.ll),t.iI)
